@@ -104,6 +104,7 @@ h3{
     display: flex;
     justify-content: center;
     font-family: var(--fuentePrincipal);
+    font-size: 1rem;
 }
 
 /*Estilos para el MAIN*/
